@@ -1,0 +1,17 @@
+{
+  "name": "leapyear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter progress *Test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.17.0",
+    "eslint-plugin-import": "^2.8.0",
+    "mocha": "^5.0.0"
+  }
+}
